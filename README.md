@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ChuyueCui
+- 👀 I’m interested in traveling
+- 🌱 I’m currently as a MSBA student in Santa Clara Univeristy
+- 💞️ I’m looking to collaborate as a Business Analaytics
+- 📫 Please reach me by email: ccui@scu.edu
+- 😄 Pronouns: She/Her
