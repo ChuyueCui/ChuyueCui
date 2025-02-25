@@ -3,7 +3,7 @@
 
 🎓 **Honours Bachelor of Commerce (Business Technology Management)** at the University of Ottawa
 
-📊 **Business Analytics Enthusiast** | Data Science | Machine Learning |Procuct & Market Analysis 
+📊 **Business Analytics Enthusiast** | Data Science | Machine Learning | Procuct & Market Analysis 
 
 🌍 **Interests**: Traveling, Predictive Modeling  
 
