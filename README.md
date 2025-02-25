@@ -1,7 +1,10 @@
 # 👋 Hi, I’m Chuyue Cui  
 🎓 **MSBA Student** at Santa Clara University  
+
 🎓 **Honours Bachelor of Commerce (Business Technology Management)** at the University of Ottawa
+
 📊 **Business Analytics Enthusiast** | Data Science | Machine Learning  
+
 🌍 **Interests**: Traveling, Predictive Modeling  
 
 ## 🔥 Projects  
