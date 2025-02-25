@@ -9,7 +9,7 @@
 
 ## 🔥 Projects  
 ### 📈 Intopia Simulation  
-- **Description**: Developed and executed data-driven marketing strategies, leading to X% sales growth.  
+- **Description**: Developed and executed data-driven marketing strategies, leading to the sales growth.  
 - **Key Contributions**:  
   - Conducted market research to enhance competitive positioning and customer outreach.  
   - Optimized product offerings and pricing strategies through data analysis.  
