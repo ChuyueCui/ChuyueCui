@@ -3,7 +3,7 @@
 
 🎓 **Honours Bachelor of Commerce (Business Technology Management)** at the University of Ottawa
 
-📊 **Business Analytics Enthusiast** | Data Science | Machine Learning  
+📊 **Business Analytics Enthusiast** | Data Science | Machine Learning |Procuct & Market Analysis 
 
 🌍 **Interests**: Traveling, Predictive Modeling  
 
@@ -37,4 +37,4 @@
 - **Tools**: Databricks, Scikit-Learn, Pandas, Tableau  
 - **Domain**: Business Analytics, Machine Learning, Customer Insights  
 
-📫 **Contact**: ccui@scu.edu | [GitHub](https://github.com/ChuyueCui)  
+📫 **Contact**: ccui0526@hotmail.com | [GitHub](https://github.com/ChuyueCui) |[LinkedIn](https://linkedin.com/in/chuyue-cui-b783aa345) 
