@@ -5,7 +5,7 @@
 
 📊 **Business Analytics Enthusiast** | Data Science | Machine Learning | Procuct & Market Analysis 
 
-🌍 **Interests**: Traveling, Predictive Modeling  
+🌍 **Interests**: Traveling
 
 ## 🔥 Projects  
 ### 📈 Intopia Simulation  
@@ -35,6 +35,6 @@
 ## 💡 Skills  
 - **Programming**: Python, SQL, R studio
 - **Tools**: Databricks, Scikit-Learn, Pandas, Tableau  
-- **Domain**: Business Analytics, Machine Learning, Customer Insights  
+- **Domain**: Business Analytics, Machine Learning
 
 📫 **Contact**: ccui0526@hotmail.com | [GitHub](https://github.com/ChuyueCui) |[LinkedIn](https://linkedin.com/in/chuyue-cui-b783aa345) 
