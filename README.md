@@ -9,15 +9,14 @@
 
 ## 🚀 About Me  
 
-I am a data-driven analyst with experience in business analytics, machine learning, and marketing insights.  
+I am a business-oriented data analyst with experience in customer analytics, machine learning, and data-driven decision-making.
 
-I focus on using data to solve real business problems, including customer segmentation, user behavior analysis, and predictive modeling.  
-
+I focus on translating data into actionable business insights, including customer segmentation, churn prediction, and user behavior analysis.
 
 ## 🔥 Featured Projects  
 
 ### 🏦 Customer Churn Prediction (Machine Learning & Business Analytics)  
-- Built and evaluated multiple machine learning models to identify at-risk customers  
+- Built and evaluated machine learning models to identify at-risk customers and support retention strategies
 - Applied threshold tuning to balance recall and precision for retention strategy optimization  
 - Generated actionable insights to support customer retention and reduce churn risk  
 👉 [View Project](https://github.com/ChuyueCui/bank-customer-churn-prediction)
@@ -44,15 +43,15 @@ I focus on using data to solve real business problems, including customer segmen
 👉 [View Project](https://github.com/ChuyueCui/titanic-survival-prediction)
 
 
-## 💡 Skills  
+## 💻 Skills 
 
-- **Programming**: Python, SQL, R  
-- **Data Tools**: Databricks, Tableau, Jupyter  
-- **Analytics**: Machine Learning (Logistic Regression, Tree-based Models), Customer Segmentation, Data Visualization  
+- Programming: Python, SQL  
+- Data & Tools: Databricks, Tableau, Jupyter  
+- Analytics: Machine Learning, Customer Segmentation, A/B Testing, Data Visualization  
 
 
 ## 📫 Contact  
 
-Email: ccui0526@hotmail.com  
-GitHub: https://github.com/ChuyueCui  
-LinkedIn: https://linkedin.com/in/chuyue-cui-b783aa345  
+- Email: ccui0526@hotmail.com  
+- GitHub: https://github.com/ChuyueCui  
+- LinkedIn: https://linkedin.com/in/chuyue-cui-b783aa345  
