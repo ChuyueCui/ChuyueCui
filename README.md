@@ -24,7 +24,7 @@ I focus on using data to solve real business problems, including customer segmen
 
 
 ### 🌍 Global Bus – Cross-Border E-Commerce Strategy  
-- Self-initiated project inspired by social commerce platforms (e.g., Xiaohongshu)  
+- Self-initiated project inspired by social commerce platforms
 - Designed a business model and strategy to support SMEs in global trade  
 - Conducted market analysis and developed platform growth strategy  
 👉 [View Slides](https://github.com/ChuyueCui/Global-Bus-Simplifying-Cross-Border-E-Commerce-for-SMEs)  
