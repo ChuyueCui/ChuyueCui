@@ -20,7 +20,6 @@ I focus on using data to solve real business problems, including customer segmen
 - Achieved **1st place** in a class-wide competition  
 👉 [View Project](https://github.com/ChuyueCui/titanic-survival-prediction)  
 
----
 
 ### 🌍 Global Bus – Cross-Border E-Commerce Strategy  
 - Self-initiated project inspired by social commerce platforms (e.g., Xiaohongshu)  
