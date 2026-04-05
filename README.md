@@ -6,7 +6,6 @@
 🎓 **MS in Business Analytics** at Santa Clara University  
 🎓 **Bachelor of Commerce (Business Technology Management)** at University of Ottawa  
 
----
 
 ## 🚀 About Me  
 
@@ -14,7 +13,6 @@ I am a data-driven analyst with experience in business analytics, machine learni
 
 I focus on using data to solve real business problems, including customer segmentation, user behavior analysis, and predictive modeling.  
 
----
 
 ## 🔥 Featured Projects  
 
@@ -24,7 +22,6 @@ I focus on using data to solve real business problems, including customer segmen
 - Achieved **1st place** in a class-wide competition  
 👉 [View Project](https://github.com/ChuyueCui/titanic-survival-prediction)  
 
----
 
 ### 🌍 Global Bus – Cross-Border E-Commerce Strategy  
 - Self-initiated project inspired by social commerce platforms (e.g., Xiaohongshu)  
@@ -32,7 +29,6 @@ I focus on using data to solve real business problems, including customer segmen
 - Conducted market analysis and developed platform growth strategy  
 👉 [View Slides](https://github.com/ChuyueCui/Global-Bus-Simplifying-Cross-Border-E-Commerce-for-SMEs)  
 
----
 
 ## 💡 Skills  
 
@@ -40,7 +36,6 @@ I focus on using data to solve real business problems, including customer segmen
 - **Data Tools**: Databricks, Tableau, Jupyter  
 - **Analytics**: Machine Learning (Logistic Regression, Tree-based Models), Customer Segmentation, Data Visualization  
 
----
 
 ## 📫 Contact  
 
