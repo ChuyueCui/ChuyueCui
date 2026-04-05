@@ -1,40 +1,45 @@
 # 👋 Hi, I’m Chuyue Cui  
-🎓 **MSBA Student** at Santa Clara University  
-
+🎓 **MS in Business Analytics Student** at Santa Clara University  
 🎓 **Honours Bachelor of Commerce (Business Technology Management)** at the University of Ottawa
 
-📊 **Business Analytics Enthusiast** | Data Science | Machine Learning | Procuct & Market Analysis 
+📊 **Data Analytics | Business Analytics | Marketing Analytics**  
 
-🌍 **Interests**: Traveling
+## 🚀 About Me  
 
-## 🔥 Projects  
-### 📈 Intopia Simulation  
-- **Description**: Developed and executed data-driven marketing strategies, leading to the sales growth.  
-- **Key Contributions**:  
-  - Conducted market research to enhance competitive positioning and customer outreach.  
-  - Optimized product offerings and pricing strategies through data analysis.  
-  - Collaborated with cross-functional teams to improve decision-making.  
-- **Tech Stack**: Excel,Market Research 
+I am a data-driven analyst with experience in business analytics, machine learning, and marketing insights.  
 
-### 🌍 Global Bus: Simplifying Cross-Border E-Commerce for SMEs  
-- **Description**: A cross-border e-commerce platform designed to optimize logistics, streamline payments, and support SMEs in global transactions.  
-- **Key Contributions**:  
-  - Developed the Global Bus platform to address cross-border trade challenges for SMEs.  
-  - Designed features for logistics efficiency, secure payments, and transaction automation.  
-  - Conducted competitive analysis and implemented innovative solutions for B2B & B2C markets.   
-- **GitHub**: [Business Plan](https://github.com/ChuyueCui/Global-Bus/blob/main/Reports/Global_Bus_Business_Plan.md)
+I focus on using data to solve real business problems, including customer segmentation, user behavior analysis, and predictive modeling.  
 
-### 🏢 MicroBiz Future Business Leaders Summit  
-- **Description**: A business simulation where I founded and managed a virtual company, securing significant investments and applying business strategy.  
-- **Key Contributions**:  
-  - Led product development, sales, and investment negotiations.  
-  - Secured virtual investments by developing compelling business cases.  
-  - Applied business strategy and operational decision-making.  
-- **Tech Stack**: Business Strategy
- 
+---
+
+## 🔥 Featured Projects  
+
+### 🧠 Titanic Survival Prediction (Machine Learning)  
+- Built and compared multiple machine learning models to predict survival outcomes  
+- Performed feature engineering and model evaluation to ensure strong generalization  
+- Achieved **1st place** in a class-wide competition  
+👉 [View Project](https://github.com/ChuyueCui/titanic-survival-prediction)  
+
+---
+
+### 🌍 Global Bus – Cross-Border E-Commerce Strategy  
+- Self-initiated project inspired by social commerce platforms (e.g., Xiaohongshu)  
+- Designed a business model and strategy to support SMEs in global trade  
+- Conducted market analysis and developed platform growth strategy  
+👉 [View Slides](https://github.com/ChuyueCui/Global-Bus-Simplifying-Cross-Border-E-Commerce-for-SMEs)  
+
+---
+
 ## 💡 Skills  
-- **Programming**: Python, SQL, R studio
-- **Tools**: Databricks, Scikit-Learn, Pandas, Tableau  
-- **Domain**: Business Analytics, Machine Learning
 
-📫 **Contact**: ccui0526@hotmail.com | [GitHub](https://github.com/ChuyueCui) |[LinkedIn](https://linkedin.com/in/chuyue-cui-b783aa345) 
+- **Programming**: Python, SQL, R  
+- **Data Tools**: Databricks, Tableau, Jupyter  
+- **Analytics**: Machine Learning (Logistic Regression, Tree-based Models), Customer Segmentation, Data Visualization  
+
+---
+
+## 📫 Contact  
+
+Email: ccui0526@hotmail.com  
+GitHub: https://github.com/ChuyueCui  
+LinkedIn: https://linkedin.com/in/chuyue-cui-b783aa345  
