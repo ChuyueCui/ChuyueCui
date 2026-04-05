@@ -20,7 +20,7 @@ I focus on using data to solve real business problems, including customer segmen
 - Built and evaluated multiple machine learning models to identify at-risk customers  
 - Applied threshold tuning to balance recall and precision for retention strategy optimization  
 - Generated actionable insights to support customer retention and reduce churn risk  
-👉 [View Project](链接)
+👉 [View Project](https://github.com/ChuyueCui/bank-customer-churn-prediction)
 
 
 ### 🛒 Amazon Customer Behavior Analysis (Data Analytics & NLP)  
@@ -34,14 +34,14 @@ I focus on using data to solve real business problems, including customer segmen
 - Conducted hypothesis-driven analysis using ANOVA, chi-square, and regression  
 - Explored relationships between demographics, purchasing behavior, and feedback  
 - Generated business insights for customer segmentation and strategy optimization  
-👉 [View Project](链接)
+👉 [View Project](https://github.com/ChuyueCui/retail-customer-behavior-analysis)
 
 
 ### 🧠 Titanic Survival Prediction (Machine Learning)  
 - Built and compared multiple machine learning models to predict survival outcomes  
 - Performed feature engineering and model evaluation to ensure strong generalization  
 - Achieved 1st place in a class-wide competition  
-👉 [View Project](链接)
+👉 [View Project](https://github.com/ChuyueCui/titanic-survival-prediction)
 
 
 ## 💡 Skills  
