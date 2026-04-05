@@ -1,8 +1,12 @@
 # 👋 Hi, I’m Chuyue Cui  
-🎓 **MS in Business Analytics Student** at Santa Clara University  
-🎓 **Honours Bachelor of Commerce (Business Technology Management)** at the University of Ottawa
 
-📊 **Data Analytics | Business Analytics | Marketing Analytics**  
+📊 Data Analytics | Business Analytics | Marketing Analytics
+
+
+🎓 **MS in Business Analytics** at Santa Clara University  
+🎓 **Bachelor of Commerce (Business Technology Management)** at University of Ottawa  
+
+---
 
 ## 🚀 About Me  
 
@@ -20,6 +24,7 @@ I focus on using data to solve real business problems, including customer segmen
 - Achieved **1st place** in a class-wide competition  
 👉 [View Project](https://github.com/ChuyueCui/titanic-survival-prediction)  
 
+---
 
 ### 🌍 Global Bus – Cross-Border E-Commerce Strategy  
 - Self-initiated project inspired by social commerce platforms (e.g., Xiaohongshu)  
