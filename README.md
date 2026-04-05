@@ -27,7 +27,7 @@ I focus on using data to solve real business problems, including customer segmen
 - Analyzed customer purchasing patterns and product performance using EDA  
 - Performed sentiment analysis to uncover drivers of customer satisfaction  
 - Delivered insights to support pricing, marketing, and product strategy decisions  
-👉 [View Project](链接)
+👉 [View Project](https://github.com/ChuyueCui/Retail-customer-behavior-analysis)
 
 
 ### 📊 Retail Customer Behavior Analysis (Statistical Analysis & ML)  
